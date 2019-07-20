@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{margin:0;background-color:#121258}:root{--light-color:#f3f1f1;--outline-color:#000d16}main{margin:1em;color:#f3f1f1;color:var(--light-color);font-family:Open Sans,sans-serif}.title{color:#5ba9ff;text-shadow:5px 5px #000d16;text-shadow:5px 5px var(--outline-color);letter-spacing:.04em;font-family:Londrina Solid,cursive;font-size:6em;margin:0;padding:0}.game{display:flex}.left{flex:1 1;max-width:32em}.right{flex:1 1;margin:0 2em}
+/*# sourceMappingURL=main.cf4ff2b9.chunk.css.map */
