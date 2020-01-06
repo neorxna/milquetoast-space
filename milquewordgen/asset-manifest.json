@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/milquewordgen/static/css/main.970f23f5.chunk.css",
+    "main.js": "/milquewordgen/static/js/main.e1a51ab4.chunk.js",
+    "main.js.map": "/milquewordgen/static/js/main.e1a51ab4.chunk.js.map",
+    "runtime-main.js": "/milquewordgen/static/js/runtime-main.0cca9136.js",
+    "runtime-main.js.map": "/milquewordgen/static/js/runtime-main.0cca9136.js.map",
+    "static/js/2.3d37267c.chunk.js": "/milquewordgen/static/js/2.3d37267c.chunk.js",
+    "static/js/2.3d37267c.chunk.js.map": "/milquewordgen/static/js/2.3d37267c.chunk.js.map",
+    "index.html": "/milquewordgen/index.html",
+    "precache-manifest.846140275b85f30debd7f23ac37e0d9c.js": "/milquewordgen/precache-manifest.846140275b85f30debd7f23ac37e0d9c.js",
+    "service-worker.js": "/milquewordgen/service-worker.js",
+    "static/css/main.970f23f5.chunk.css.map": "/milquewordgen/static/css/main.970f23f5.chunk.css.map",
+    "static/js/2.3d37267c.chunk.js.LICENSE": "/milquewordgen/static/js/2.3d37267c.chunk.js.LICENSE",
+    "static/media/logo.svg": "/milquewordgen/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cca9136.js",
+    "static/js/2.3d37267c.chunk.js",
+    "static/css/main.970f23f5.chunk.css",
+    "static/js/main.e1a51ab4.chunk.js"
+  ]
+}
