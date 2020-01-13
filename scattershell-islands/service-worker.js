@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/scattershell-islands/precache-manifest.81e03ad91d4ed1f2497de503c98fa430.js"
+  "/scattershell-islands/precache-manifest.6f9f1ab20d7470bbb78ef587e5316eef.js"
 );
 
 self.addEventListener('message', (event) => {
