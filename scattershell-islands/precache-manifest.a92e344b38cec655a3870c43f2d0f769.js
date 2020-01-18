@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d3756a2cde3890227c029b6ac0d3069",
+    "revision": "976c0f3056d76e918eee7b252d7032f6",
     "url": "/scattershell-islands/index.html"
   },
   {
-    "revision": "36ea5a3d5e7dd1efe10f",
-    "url": "/scattershell-islands/static/css/main.95f5b55c.chunk.css"
+    "revision": "22b845d2ef1089b0c9c0",
+    "url": "/scattershell-islands/static/css/main.c16f6a59.chunk.css"
   },
   {
     "revision": "9ba27417bc6d7d49a203",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scattershell-islands/static/js/2.fb64e06f.chunk.js.LICENSE"
   },
   {
-    "revision": "36ea5a3d5e7dd1efe10f",
+    "revision": "22b845d2ef1089b0c9c0",
     "url": "/scattershell-islands/static/js/main.eeeb970b.chunk.js"
   },
   {

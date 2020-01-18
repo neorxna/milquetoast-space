@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/scattershell-islands/static/css/main.95f5b55c.chunk.css",
+    "main.css": "/scattershell-islands/static/css/main.c16f6a59.chunk.css",
     "main.js": "/scattershell-islands/static/js/main.eeeb970b.chunk.js",
     "main.js.map": "/scattershell-islands/static/js/main.eeeb970b.chunk.js.map",
     "runtime-main.js": "/scattershell-islands/static/js/runtime-main.45f97f40.js",
@@ -8,15 +8,15 @@
     "static/js/2.fb64e06f.chunk.js": "/scattershell-islands/static/js/2.fb64e06f.chunk.js",
     "static/js/2.fb64e06f.chunk.js.map": "/scattershell-islands/static/js/2.fb64e06f.chunk.js.map",
     "index.html": "/scattershell-islands/index.html",
-    "precache-manifest.a9b729f9a71dcd3a90bf6483266e6b2c.js": "/scattershell-islands/precache-manifest.a9b729f9a71dcd3a90bf6483266e6b2c.js",
+    "precache-manifest.a92e344b38cec655a3870c43f2d0f769.js": "/scattershell-islands/precache-manifest.a92e344b38cec655a3870c43f2d0f769.js",
     "service-worker.js": "/scattershell-islands/service-worker.js",
-    "static/css/main.95f5b55c.chunk.css.map": "/scattershell-islands/static/css/main.95f5b55c.chunk.css.map",
+    "static/css/main.c16f6a59.chunk.css.map": "/scattershell-islands/static/css/main.c16f6a59.chunk.css.map",
     "static/js/2.fb64e06f.chunk.js.LICENSE": "/scattershell-islands/static/js/2.fb64e06f.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.45f97f40.js",
     "static/js/2.fb64e06f.chunk.js",
-    "static/css/main.95f5b55c.chunk.css",
+    "static/css/main.c16f6a59.chunk.css",
     "static/js/main.eeeb970b.chunk.js"
   ]
 }
