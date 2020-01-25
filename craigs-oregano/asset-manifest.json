@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/craigs-oregano/static/css/main.8d8bda3b.chunk.css",
+    "main.js": "/craigs-oregano/static/js/main.7e58e385.chunk.js",
+    "main.js.map": "/craigs-oregano/static/js/main.7e58e385.chunk.js.map",
+    "runtime-main.js": "/craigs-oregano/static/js/runtime-main.7ca92bec.js",
+    "runtime-main.js.map": "/craigs-oregano/static/js/runtime-main.7ca92bec.js.map",
+    "static/js/2.79b06b36.chunk.js": "/craigs-oregano/static/js/2.79b06b36.chunk.js",
+    "static/js/2.79b06b36.chunk.js.map": "/craigs-oregano/static/js/2.79b06b36.chunk.js.map",
+    "index.html": "/craigs-oregano/index.html",
+    "precache-manifest.8b982f388d794b97364b26569aebba47.js": "/craigs-oregano/precache-manifest.8b982f388d794b97364b26569aebba47.js",
+    "service-worker.js": "/craigs-oregano/service-worker.js",
+    "static/css/main.8d8bda3b.chunk.css.map": "/craigs-oregano/static/css/main.8d8bda3b.chunk.css.map",
+    "static/js/2.79b06b36.chunk.js.LICENSE": "/craigs-oregano/static/js/2.79b06b36.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ca92bec.js",
+    "static/js/2.79b06b36.chunk.js",
+    "static/css/main.8d8bda3b.chunk.css",
+    "static/js/main.7e58e385.chunk.js"
+  ]
+}
